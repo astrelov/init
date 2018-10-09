@@ -1,0 +1,4 @@
+#!/bin/bash
+# /etc/resolv.conf
+# path in files, linked in nslookup man, still link to
+/var/run/resolv.conf
