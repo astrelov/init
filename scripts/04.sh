@@ -1,6 +1,6 @@
 #!/bin/bash
 
-email="root@debian"
+email="root"
 
 # md5sum /etc/crontab > /crontabsum
 # run this once before running script
